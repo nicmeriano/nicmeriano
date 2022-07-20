@@ -1,9 +1,9 @@
 <h3 align="center">👋 Hey, I'm Nick.</h3>
 
 <p align="center">
-  <a href="https://nickmeriano.com/">Website</a> •
-  <a href="mailto:nicmeriano@gmail.com">Email</a> •
-  <a href="https://twitter.com/frontstuff_io](https://www.linkedin.com/in/nicholas-meriano-0a1a8b183/)">LinkedIn</a>
+  <a href="https://nickmeriano.com/" target="_blank">Website</a> •
+  <a href="mailto:nicmeriano@gmail.com" target="_blank">Email</a> •
+  <a href="https://www.linkedin.com/in/nicholas-meriano-0a1a8b183/" target="_blank">LinkedIn</a>
 </p>
 
 ---
