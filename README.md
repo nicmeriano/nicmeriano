@@ -8,4 +8,4 @@
 
 ---
 
-I'm a software engineer, mentor and lifelong learner currently working at [Ephesoft](https://www.ephesoft.com/), where I design and build user interfaces, among other things. I'm passionate about building clean, scalable and accessible applications for the web.
+I'm a software engineer, mentor and lifelong learner currently working at [Brightwheel](https://mybrightwheel.com/), where I design and build user interfaces, among other things. I'm passionate about building clean, scalable and accessible applications for the web.
